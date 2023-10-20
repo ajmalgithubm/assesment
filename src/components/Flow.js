@@ -46,7 +46,7 @@ export default function Flow({
             label: <InputBox id={id} />,
           },
           style: {
-            background: 'red',
+            background: 'green',
             fontSize: 12,
             border: '1px solid black',
             padding: 5,
