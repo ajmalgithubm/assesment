@@ -1,13 +1,13 @@
 import { initializeApp } from 'firebase/app'
 
-// TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyBUTkt6ye-l_-Uf26hpeeBDZytxutkOBZc',
-  authDomain: 'express-auto-01.firebaseapp.com',
-  projectId: 'express-auto-01',
-  storageBucket: 'express-auto-01.appspot.com',
-  messagingSenderId: '263587897035',
-  appId: '1:263587897035:web:75038ac6cbbd8d1961054e',
+  apiKey: "AIzaSyAouywUzC185NjXdIpxpFsQl7odT_Kig6o",
+  authDomain: "next-86944.firebaseapp.com",
+  projectId: "next-86944",
+  storageBucket: "next-86944.appspot.com",
+  messagingSenderId: "185311793850",
+  appId: "1:185311793850:web:4a916bceda0a6f752d2883",
+  measurementId: "G-BLVBKZLYF7"
 }
 
 export const app = initializeApp(firebaseConfig)
